@@ -150,7 +150,6 @@ main section {
   transition: filter 0.2s, transform 0.2s;
   max-width: 100%;
   height: auto;
-  /* Garante responsividade */
   display: block;
 }
 
