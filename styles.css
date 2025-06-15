@@ -152,6 +152,11 @@ main section {
   height: auto;
   display: block;
 }
+.logo img:hover,
+.logo-footer img:hover {
+  filter: brightness(1.1) drop-shadow(0 2px 8px #e08f04aa);
+  transform: scale(1.04) rotate(-2deg);
+}
 
 .hero .container {
   padding: 60px 0;
